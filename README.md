@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jvalentinavelez
+- 👀 I’m interested in web development and data science
+- 🌱 I’m currently learning JavaScript, React and ML
+- 📫 How to reach me: jvalentina.velez@udea.edu.co
