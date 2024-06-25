@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jvalentinavelez
 - 👀 I’m interested in front and back development
-- 🌱 I’m currently learning Nestjs and Angular
+- 🌱 I’m currently learning Nestjs, Angular and React
 - 📫 How to reach me: jvalentina.velez@gmail.com
